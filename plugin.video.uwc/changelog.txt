@@ -1,3 +1,24 @@
+Version 1.2.10
+Fixed: Spankbang
+Fixed: Cam4
+Fixed: FreeOMovie
+Fixed: Woxtube
+
+Version 1.2.9
+New options in settings:
+sort search keywords
+sort favorits
+select resolver for daftsex (internal or resolveurl)
+myfreecam fixed (works for me, but requires testing)
+
+Version 1.2.8
+DaftSex updated server lists
+Fixed: Eroticage
+
+Version 1.2.7
+Fixed xHamster next page
+JavWhores domain changed to JavBangers
+
 Version 1.2.6
 Room info added to Chaturbate
 Fixed: StreamXXX
